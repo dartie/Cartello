@@ -42,9 +42,9 @@ class KanbanRenderer(mistune.Renderer):
                     <nav class="navbar is-transparent is-boxed">
                         <div class="navbar-menu">
                             <div class="navbar-end">
-                                <a class="navbar-item">
+                                <p class="navbar-item">
                                     %s
-                                </a>""" % text
+                                </p>""" % text
             if len(boards) > 0:
                 html += """<div class="navbar-item has-dropdown is-hoverable">
                                 <a class="navbar-link">
