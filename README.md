@@ -37,3 +37,9 @@ Shopping List
 * `info|Project B` Milk: raw is better
 
 ```
+
+# Demo
+
+You can view a demo of the output of cartello here
+
+http://francescomecca.eu/cartello/shopping_list.html
