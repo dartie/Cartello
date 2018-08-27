@@ -1,8 +1,10 @@
 # Cartello
 Create [kanban boards](https://en.wikipedia.org/wiki/Kanban_board) to track projects from flat markdown files.
 
+I got the idea from [Crepido](https://github.com/arshad/crepido) that is very similar but written in js+node.
+
 ## Setup
-* Clone the repository and enter the folder
+* clone the repository and enter the folder
 * install [mistune](https://github.com/lepture/mistune) from pip, it is a dependency required for parsing markdown
 * create a board in the "boards" directory and run `python3 cartello.py`
 
